@@ -1,0 +1,73 @@
+body{
+    background-color: #2C394B;
+    text-align: center;
+    font-family:'Gowun Dodum', sans-serif;
+}
+.one{
+    background-color: #2C394B;
+    position: relative;
+    padding-top:100px;
+   
+}
+.middle-container{
+    background-color: #2C394B;
+    position: relative;
+    
+}
+
+body{
+    margin: 0px;
+}
+h1{
+    
+    color:aliceblue;
+    font-size: 60px;
+    font-family:'Sacramento', cursive;
+    
+   
+}
+
+h2{
+    color:aliceblue;
+    font-family: 'Open Sans', sans-serif;
+}
+h3{
+    color:aliceblue;
+    font-family: 'Open Sans', sans-serif; 
+}
+h4{
+    font-size: 15px;
+}
+
+
+p{
+    color:aliceblue;
+}
+
+
+
+.cloud{
+   position: absolute;
+   right: 300px;
+   top:30px;
+}
+
+.cloud2{
+    position: absolute;
+    display: inline-block;
+    left: 300px;
+    bottom: 300px;
+    
+}
+
+.mountain{
+    position: relative;
+    display: inline-block;
+}
+.profile{
+    height: 200px;
+}
+.unorder{
+    color:aliceblue;
+    font-family: 'Open Sans', sans-serif;
+}
